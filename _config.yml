@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-TH"
 title                    : "Mr. Thirawat Chuthong"
 title_separator          : "-"
 name                     : &name "Mr. Thirawat Chuthong"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Joe Chu thirawat"
   foursquare       :
   github           : "academicpages"
   google_plus      :
