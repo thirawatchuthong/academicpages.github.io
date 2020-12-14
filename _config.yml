@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-TH"
-title                    : "Mr. Thirawat Chuthong"
+title                    : "Thirawat Chuthong"
 title_separator          : "-"
-name                     : &name "Mr. Thirawat Chuthong"
+name                     : &name "Thirawat Chuthong"
 description              : &description "Research engineer at Vidyasirimedhi Institute of Science and Technology"
 url                      : https://thirawatchuthong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Thirawat Chuthong"
+  name             : "Thirawat Chuthong"
   avatar           : "thirawat3_profile.jpg"
   bio              : "Research engineer, Bio-inspired robotics"
   location         : "Rayong, Thailand"
