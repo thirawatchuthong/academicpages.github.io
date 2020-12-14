@@ -1,2 +1,2 @@
 
-![profile_pic](/images/thirawat2_profile.jpg)
+[profile_pic](/images/thirawat2_profile.jpg)
