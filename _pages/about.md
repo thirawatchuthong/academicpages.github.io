@@ -8,5 +8,4 @@ redirect_from:
   - /talks.html
 ---
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/thirawat2_profile.jpg)
+![thirawat3_profile](/images/thirawat3_profile.jpg)
